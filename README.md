@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="295" src="https://landing-page-pets.vercel.app/_next/static/image/resources/images/kasam2.44de77630e27732d724c92e7218d96cb.png"  />
+<img align="right" height="285" src="https://landing-page-pets.vercel.app/_next/static/image/resources/images/kasam2.44de77630e27732d724c92e7218d96cb.png"  />
 
 ###
 
@@ -70,8 +70,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Carlos-vargs/me/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Carlos-vargs/Carlos-vargs/output/snake.svg" alt="Snake animation" />
 
 ###
